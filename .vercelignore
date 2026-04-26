@@ -1,0 +1,7 @@
+build_data.py
+requirements.txt
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
